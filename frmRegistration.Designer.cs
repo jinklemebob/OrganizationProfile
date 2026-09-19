@@ -252,6 +252,7 @@
             Controls.Add(txtStudentNo);
             Controls.Add(label1);
             Name = "frmRegistration";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = " ";
             Load += frmRegistration_Load;
             ResumeLayout(false);

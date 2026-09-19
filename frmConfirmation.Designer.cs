@@ -49,7 +49,7 @@
             // 
             StudentNo.AutoSize = true;
             StudentNo.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            StudentNo.Location = new Point(68, 129);
+            StudentNo.Location = new Point(71, 104);
             StudentNo.Name = "StudentNo";
             StudentNo.Size = new Size(128, 30);
             StudentNo.TabIndex = 0;
@@ -59,7 +59,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(68, 168);
+            label1.Location = new Point(71, 143);
             label1.Name = "label1";
             label1.Size = new Size(74, 30);
             label1.TabIndex = 1;
@@ -69,7 +69,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(68, 205);
+            label2.Location = new Point(71, 180);
             label2.Name = "label2";
             label2.Size = new Size(97, 30);
             label2.TabIndex = 2;
@@ -79,7 +79,7 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label3.Location = new Point(68, 244);
+            label3.Location = new Point(71, 219);
             label3.Name = "label3";
             label3.Size = new Size(55, 30);
             label3.TabIndex = 3;
@@ -89,7 +89,7 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label4.Location = new Point(68, 283);
+            label4.Location = new Point(71, 258);
             label4.Name = "label4";
             label4.Size = new Size(94, 30);
             label4.TabIndex = 4;
@@ -99,7 +99,7 @@
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label5.Location = new Point(68, 324);
+            label5.Location = new Point(71, 299);
             label5.Name = "label5";
             label5.Size = new Size(85, 30);
             label5.TabIndex = 5;
@@ -109,7 +109,7 @@
             // 
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label6.Location = new Point(68, 363);
+            label6.Location = new Point(71, 338);
             label6.Name = "label6";
             label6.Size = new Size(129, 30);
             label6.TabIndex = 6;
@@ -117,7 +117,7 @@
             // 
             // btnSubmit
             // 
-            btnSubmit.Location = new Point(144, 445);
+            btnSubmit.Location = new Point(147, 420);
             btnSubmit.Name = "btnSubmit";
             btnSubmit.Size = new Size(155, 49);
             btnSubmit.TabIndex = 7;
@@ -129,7 +129,7 @@
             // 
             lblContactNo.AutoSize = true;
             lblContactNo.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblContactNo.Location = new Point(202, 363);
+            lblContactNo.Location = new Point(205, 338);
             lblContactNo.Name = "lblContactNo";
             lblContactNo.Size = new Size(129, 30);
             lblContactNo.TabIndex = 14;
@@ -139,7 +139,7 @@
             // 
             lblGender.AutoSize = true;
             lblGender.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblGender.Location = new Point(202, 324);
+            lblGender.Location = new Point(205, 299);
             lblGender.Name = "lblGender";
             lblGender.Size = new Size(85, 30);
             lblGender.TabIndex = 13;
@@ -149,7 +149,7 @@
             // 
             lblBirthday.AutoSize = true;
             lblBirthday.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblBirthday.Location = new Point(202, 283);
+            lblBirthday.Location = new Point(205, 258);
             lblBirthday.Name = "lblBirthday";
             lblBirthday.Size = new Size(94, 30);
             lblBirthday.TabIndex = 12;
@@ -159,7 +159,7 @@
             // 
             lblAge.AutoSize = true;
             lblAge.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblAge.Location = new Point(202, 244);
+            lblAge.Location = new Point(205, 219);
             lblAge.Name = "lblAge";
             lblAge.Size = new Size(55, 30);
             lblAge.TabIndex = 11;
@@ -169,7 +169,7 @@
             // 
             lblProgram.AutoSize = true;
             lblProgram.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblProgram.Location = new Point(202, 205);
+            lblProgram.Location = new Point(205, 180);
             lblProgram.Name = "lblProgram";
             lblProgram.Size = new Size(97, 30);
             lblProgram.TabIndex = 10;
@@ -179,7 +179,7 @@
             // 
             lblName.AutoSize = true;
             lblName.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblName.Location = new Point(202, 168);
+            lblName.Location = new Point(205, 143);
             lblName.Name = "lblName";
             lblName.Size = new Size(74, 30);
             lblName.TabIndex = 9;
@@ -189,7 +189,7 @@
             // 
             lblStudentNo.AutoSize = true;
             lblStudentNo.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            lblStudentNo.Location = new Point(202, 129);
+            lblStudentNo.Location = new Point(205, 104);
             lblStudentNo.Name = "lblStudentNo";
             lblStudentNo.Size = new Size(128, 30);
             lblStudentNo.TabIndex = 8;
@@ -199,7 +199,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(461, 548);
+            ClientSize = new Size(516, 552);
             Controls.Add(lblContactNo);
             Controls.Add(lblGender);
             Controls.Add(lblBirthday);
@@ -216,6 +216,7 @@
             Controls.Add(label1);
             Controls.Add(StudentNo);
             Name = "frmConfirmation";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "frmConfirmation";
             Load += frmConfirmation_Load;
             ResumeLayout(false);
